@@ -1,0 +1,5 @@
+name: graphql_codegen_monorepo_example
+
+packages:
+  - packages/*
+  - apps/*

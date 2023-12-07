@@ -1,0 +1,16 @@
+targets:
+  $default:
+    sources:
+      - packages/graphql/lib/**
+      - packages/feature1/lib/**
+      - apps/app1/lib/**
+      - pubspec.*
+      - $package$
+      - lib/$lib$
+    builders:
+      graphql_codegen:
+        options:
+          clients:
+            - graphql
+          outputDirectory: /packages/graphql/lib
+          assetsPath: '*/*/lib/**'

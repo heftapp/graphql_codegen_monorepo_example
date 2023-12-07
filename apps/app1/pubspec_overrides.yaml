@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: graphql_codegen_monorepo_example_feature1,graphql_codegen_monorepo_example_graphql
+dependency_overrides:
+  graphql_codegen_monorepo_example_feature1:
+    path: ../../packages/feature1
+  graphql_codegen_monorepo_example_graphql:
+    path: ../../packages/graphql

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/app1/melos_app1.iml" filepath="$PROJECT_DIR$/apps/app1/melos_app1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/feature1/melos_graphql_codegen_monorepo_example_feature1.iml" filepath="$PROJECT_DIR$/packages/feature1/melos_graphql_codegen_monorepo_example_feature1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/graphql/melos_graphql_codegen_monorepo_example_graphql.iml" filepath="$PROJECT_DIR$/packages/graphql/melos_graphql_codegen_monorepo_example_graphql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_graphql_codegen_monorepo_example.iml" filepath="$PROJECT_DIR$/melos_graphql_codegen_monorepo_example.iml" />
+    </modules>
+  </component>
+</project>

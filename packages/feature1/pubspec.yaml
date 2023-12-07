@@ -1,0 +1,8 @@
+name: graphql_codegen_monorepo_example_feature1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  graphql_codegen_monorepo_example_graphql:
+    path: ../graphql

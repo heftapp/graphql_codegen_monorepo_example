@@ -1,0 +1,8 @@
+name: my_project_workspace
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+dev_dependencies:
+  melos: ^3.4.0
+  build_runner: ^2.4.7
+  graphql_codegen: ^0.13.10
